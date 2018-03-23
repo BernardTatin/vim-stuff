@@ -1,0 +1,7 @@
+# IDE files
+.*.swp
+
+# specific to this repo
+autoload/
+plugged/
+spell/
